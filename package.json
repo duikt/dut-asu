@@ -1,5 +1,6 @@
 {
   "name": "dut-asu",
+  "description": "There is the test variant of ASU"
   "version": "0.1.0",
   "private": true,
   "dependencies": {
